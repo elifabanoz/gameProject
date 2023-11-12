@@ -1,0 +1,32 @@
+Soldiers is adding: Side 1 - H:100, S:50
+Soldiers is adding: Side 2 - H:89, S:210
+Soldiers is adding: Side 1 - H:120, S:200
+Soldiers is adding: Side 2 - H:67, S:23
+Soldiers is adding: Side 1 - H:90, S:76
+Soldiers is adding: Side 2 - H:75, S:130
+Soldiers is adding: Side 2 - H:600, S:340
+Soldiers is adding: Side 1 - H:765, S:200
+Soldiers is adding: Side 2 - H:128, S:600
+Soldiers is adding: Side 1 - H:736, S:643
+On team 2 has a casualty
+Called reinforcements to side 2
+S-H:64 S:153
+Soldiers is adding: Side 2 - H:64, S:153
+On team 2 has a casualty
+On team 2 has a casualty
+On team 1 has a casualty
+Called reinforcements to side 1
+S-H:57 S:778
+Soldiers is adding: Side 1 - H:57, S:778
+On team 1 has a casualty
+Critical shot:
+On team 2 has a casualty
+Called reinforcements to side 1
+S-H:8 S:40
+Soldiers is adding: Side 1 - H:8, S:40
+Called reinforcements to side 2
+S-H:54 S:264
+Soldiers is adding: Side 2 - H:54, S:264
+Critical shot:
+On team 1 has a casualty
+Team 1 wins!
